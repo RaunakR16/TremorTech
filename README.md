@@ -1,3 +1,5 @@
+# TremorTech
+
 ## Problem Statement:
 Parkinson's disease (PD) is a progressive neurological disorder primarily affecting individuals aged 60 and older globally. Approximately 15% of Parkinson's disease cases have a familial component attributed to genetic mutations in specific genes, while environmental factors such as exposure to toxins like farming chemicals and heavy metals like manganese can also contribute to Parkinson's-like symptoms. 
 ### It manifests through:
