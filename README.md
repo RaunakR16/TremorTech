@@ -16,3 +16,10 @@ Sudden muscle stiffness can lead to falls and accidents, significantly impacting
 ## 🚀 Our Solution:
 An innovative wearable device designed to manage motor symptoms of Parkinson's Disease (PD), specifically tremors and muscle stiffness. This automatic and semi-automatic solution features a flexible, biocompatible sensor array that detects abnormal muscle activity through Galvanic Skin Response and Electromyogram sensors. It delivers targeted haptic vibrations to alleviate symptoms while tailored for ease of use and affordability. Offering a safe, non-invasive alternative to traditional treatments, this device enhances patient freedom and quality of life, filling a significant gap in Parkinson's Disease management.
 
+# WHAT IS UNIQUE ABOUT US?
+
+## 🚀 What we are solving:
+- Parkinson's Disease presents complexities, notably in its initial stages, where individuals experience tremors affecting various body parts, particularly the limbs. This often leads to sudden falls, getting stuck in positions, and other challenges that directly impact the affected person's confidence and mental well-being. Our innovative device addresses these specific situations by offering neuromodulator stimulation, effectively halting muscle freezing and shaking and providing much-needed support for individuals dealing with Parkinson's symptoms.
+- Our device is designed for effortless use—simply calibrate it once, put it on, and experience newfound independence. Say goodbye to relying on others.
+- Our product is not only more effective in daily use but also 10 times more cost-efficient than current alternatives like medications and therapy centres. Choose affordability without compromising on quality.
+- Unlike medications with potential side effects and the uncertainty of inadequately trained therapists, our solution offers a worry-free alternative. Experience the benefits without concerns—no side effects and no fears associated with untrained professionals. 
