@@ -1,4 +1,3 @@
-# TremorTech
 ![screenshot](images/others/Background.jpg)
 
 ## Problem Statement:
